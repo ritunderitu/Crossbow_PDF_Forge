@@ -1,0 +1,6 @@
+*.pdf
+*.sh~
+*.zip
+*.bak
+output/
+secrets.txt
